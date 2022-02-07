@@ -43,6 +43,19 @@ element{
     color:rgb(34.0 12 64 / 60%);
     color:rgba(34.0 12 64 / 30%);
 
+    /* <hsl()> values */
+    color: hsl(30, 100%, 50%, 0.6);
+    color: hsla(30, 100%, 50%, 0.6;
+    color: hsl(30 100% 50% / 0.6);
+    color: hsla(30 100% 50% / 0.6);
+    color: hsl(30 100% 50% / 60%);
+    color: hsla(30 100% 50% / 60%);
+
+     /* Global Values */
+     color: inherit;
+     color: initial;
+     color: unset;
+
 }
 
 ```
